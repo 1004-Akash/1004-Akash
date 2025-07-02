@@ -63,9 +63,9 @@
 
 ## 🚀 Projects:
 
-- [🧠 Crop Disease Detector (CNN)](https://github.com/1004-Akash/crop-disease-detector)
-- [📊 AI Text Detector (Hugging Face)](https://github.com/1004-Akash/ai-detector)
-- [💸 FinBERT Sentiment App](https://github.com/1004-Akash/finbert-sentiment)
+- [🧠 Crop Disease Detector (CNN)](https://github.com/1004-Akash/Crop_Disease_Prediction)
+- [📊 AI Text Detector (Hugging Face)](https://github.com/1004-Akash/AI-Content-Detector)
+- [💸 FinBERT Sentiment App](https://github.com/1004-Akash/financial-signal-intel)
 
 ---
 
