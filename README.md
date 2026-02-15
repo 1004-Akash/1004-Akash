@@ -32,15 +32,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1004-Akash&show_icons=true&theme=radical" alt="Akash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1004-Akash&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akash's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1004-Akash&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1004-Akash&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
 ---
@@ -48,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1004-Akash&theme=gruvbox" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1004-Akash&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
