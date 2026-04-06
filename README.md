@@ -1,5 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
-
+<img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 <h1>Hi there 👋 It's me Akash</h1>
 
@@ -20,6 +19,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1004-Akash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-elayaraja-portfolio.vercel.app/)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br clear="right"/>
 
 ---
@@ -27,7 +33,7 @@
 ### I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,tensorflow,mongodb,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,tensorflow,mongodb,git,githubpostgres" />
 </p>
 
 ---
