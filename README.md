@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+<img align="right" alt="Coding" width="20" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 <h1>Hi there 👋 It's me Akash</h1>
 
