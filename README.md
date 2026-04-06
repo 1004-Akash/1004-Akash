@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
+
 <h1>Hi there 👋 It's me Akash</h1>
 
 **AI Engineer & Full-Stack Developer @ RMK Engineering College**
@@ -26,7 +27,7 @@
 ### I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,flask,tensorflow,mongodb,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,tensorflow,mongodb,git,github,postgres" />
 </p>
 
 ---
