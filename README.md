@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 <h1>Hi there 👋 It's me Akash</h1>
 
@@ -14,17 +14,17 @@
 
 **Social Presence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-elayaraja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-elayaraja-18842327a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.elayaraja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/akash-elayaraja-18842327a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1004-Akash)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-elayaraja-portfolio.vercel.app/)
 
 ---
 
 ### I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,flask,tensorflow,mongodb,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,flask,tensorflow,mongodb,git,github,nodejs,docker,postgres,linux" />
 </p>
 
 ---
@@ -62,11 +62,11 @@
 
 ### 🚀 Projects
 
-- 🏛️ **[GovConnect AI — CivicPulse](https://github.com/YOUR_USERNAME/civicpulse)** — Geo-tagged civic issue tracking with AI clustering & OpenStreetMap
-- 🧠 **[InnerVoice AI](https://github.com/YOUR_USERNAME/innervoice-ai)** — Context-aware AI mental health companion using NLP & FastAPI
 - ⚙️ **[AgenticFlow](https://github.com/YOUR_USERNAME/agenticflow)** — Autonomous enterprise workflow OS powered by LangGraph
 - 🔍 **[Semantic Search Engine](https://github.com/YOUR_USERNAME/semantic-search)** — Context-aware retrieval using Vector DB & Transformers
 - 👥 **[CrowdSurge](https://github.com/YOUR_USERNAME/crowdsurge)** — Real-time crowd safety system with CSRNet & WebSockets
+-  🏛️ **[GovConnect AI — CivicPulse](https://github.com/YOUR_USERNAME/civicpulse)** — Geo-tagged civic issue tracking with AI clustering & OpenStreetMap
+- 🧠 **[InnerVoice AI](https://github.com/YOUR_USERNAME/innervoice-ai)** — Context-aware AI mental health companion using NLP & FastAPI
 - ✍️ **[Digit Prediction Model](https://github.com/YOUR_USERNAME/digit-prediction)** — Handwritten digit recognition with CNN & TensorFlow
 - 🛰️ **[Tirupati GeoAI Analytics](https://github.com/YOUR_USERNAME/tirupati-geoai)** — LULC urban transformation tracking using GeoAI & RandomForest
 
