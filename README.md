@@ -19,12 +19,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1004-Akash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-elayaraja-portfolio.vercel.app/)
 
+<br clear="right"/>
+
 ---
 
 ### I code in
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,flask,tensorflow,mongodb,git,github,nodejs,docker,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,fastapi,flask,tensorflow,mongodb,git,github,postgres" />
 </p>
 
 ---
@@ -62,25 +64,25 @@
 
 ### 🚀 Projects
 
-- ⚙️ **[AgenticFlow](https://github.com/YOUR_USERNAME/agenticflow)** — Autonomous enterprise workflow OS powered by LangGraph
-- 🔍 **[Semantic Search Engine](https://github.com/YOUR_USERNAME/semantic-search)** — Context-aware retrieval using Vector DB & Transformers
-- 👥 **[CrowdSurge](https://github.com/YOUR_USERNAME/crowdsurge)** — Real-time crowd safety system with CSRNet & WebSockets
--  🏛️ **[GovConnect AI — CivicPulse](https://github.com/YOUR_USERNAME/civicpulse)** — Geo-tagged civic issue tracking with AI clustering & OpenStreetMap
-- 🧠 **[InnerVoice AI](https://github.com/YOUR_USERNAME/innervoice-ai)** — Context-aware AI mental health companion using NLP & FastAPI
-- ✍️ **[Digit Prediction Model](https://github.com/YOUR_USERNAME/digit-prediction)** — Handwritten digit recognition with CNN & TensorFlow
-- 🛰️ **[Tirupati GeoAI Analytics](https://github.com/YOUR_USERNAME/tirupati-geoai)** — LULC urban transformation tracking using GeoAI & RandomForest
+- 🏛️ **[GovConnect AI — CivicPulse](https://github.com/1004-Akash/GovConnect-AI)** — Geo-tagged civic issue tracking with AI clustering & OpenStreetMap
+- 🧠 **[InnerVoice AI](https://github.com/1004-Akash/InnerVoice-AI)** — Context-aware AI mental health companion using NLP & FastAPI
+- ⚙️ **[AgenticFlow](https://github.com/1004-Akash/AgenticFlow)** — Autonomous enterprise workflow OS powered by LangGraph
+- 🔍 **[Semantic Search Engine](https://github.com/1004-Akash/Semantic-Search-Engine)** — Context-aware retrieval using Vector DB & Transformers
+- 👥 **[CrowdSurge](https://github.com/1004-Akash/CrowdSurge)** — Real-time crowd safety system with CSRNet & WebSockets
+- ✍️ **[Digit Prediction Model](https://github.com/1004-Akash/Digit-Prediction-Model)** — Handwritten digit recognition with CNN & TensorFlow
+- 🛰️ **[Tirupati GeoAI Analytics](https://github.com/1004-Akash/Tirupati-GeoAI)** — LULC urban transformation tracking using GeoAI & RandomForest
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1004-Akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1004-Akash&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1004-Akash&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -88,7 +90,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1004-Akash&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -102,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=1004-Akash&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center"><em>"Precision that lets the quality of data and architecture speak."</em></p>
