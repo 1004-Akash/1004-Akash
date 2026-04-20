@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
-- 🎓 B.Tech AI & Data Science | **GPA: 8.16**
+- 🎓 B.Tech AI & Data Science | **CGPA: 8.16**
 - 🏆 **IITM & IIIT National Hackathon Finalist**
 - 🤖 Architecting practical AI systems with logic-driven precision
 - 🔭 Currently building **Agentic AI workflows** & **NLP pipelines**
